@@ -1,6 +1,17 @@
 {
 "name": "BigBlueWhalePool",
 "ticker": "BBWP",
+"decimals": 6,
 "homepage": "http://bbwp.tpbpt.com/",
-"description": "The Big Blue Whale stake pool with low fees, high reliability and security. Stake with us and help Cardano become decentralized."
+"description": "The Big Blue Whale stake pool with low fees, high reliability and security. Stake with us and help Cardano become decentralized.",
+"publisher": {
+  "name": "lookoor99",
+  "contact": "lookoor99@gmail.com"
+},
+"links": {
+  "twitter": "https://twitter.com/lookoor99",
+  "github": "https://github.com/lookoor99",
+  "discord": "https://discord.gg/lookoor99"
+},
+"version": 1
 }
