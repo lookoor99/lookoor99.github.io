@@ -1,17 +1,15 @@
 {
-"name": "BigBlueWhalePool",
-"ticker": "BBWP",
-"decimals": 6,
-"homepage": "http://bbwp.tpbpt.com/",
-"description": "The Big Blue Whale stake pool with low fees, high reliability and security. Stake with us and help Cardano become decentralized.",
-"publisher": {
-  "name": "lookoor99",
-  "contact": "lookoor99@gmail.com"
-},
-"links": {
+  "name": "LumiCardanoTech",
+  "ticker": "LCT",
+  "homepage": "http://lct.tpbpt.com/",
+  "description": "LumiCardanoTech Stake Pool offers secure, stable, and rewarding staking, managed by a professional operations team. Join us to support Cardano decentralization and enjoy reliable returns with peace of mind.",
+  "publisher": {
+    "name": "lookoor99",
+    "contact": "lookoor99@gmail.com"
+  },
   "twitter": "https://twitter.com/lookoor99",
+  "discord": "https://discord.gg/lookoor99",
+  "telegram": "https://t.me/lookoor99",
   "github": "https://github.com/lookoor99",
-  "discord": "https://discord.gg/lookoor99"
-},
-"version": 1
+  "version": 2
 }
